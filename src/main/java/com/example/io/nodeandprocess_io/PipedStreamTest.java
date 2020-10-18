@@ -1,4 +1,4 @@
-package com.example.io;
+package com.example.io.nodeandprocess_io;
 
 import java.io.IOException;
 import java.io.PipedInputStream;

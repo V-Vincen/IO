@@ -156,3 +156,5 @@ Temporary Items
 
 /.idea/
 /IO.iml
+*.txt
+*.png
